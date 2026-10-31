@@ -1,0 +1,146 @@
+
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "category": "Non-veg",
+    "time": 60,
+    "difficulty": "Medium",
+    "image": "/src/assets/briyani.jpg",
+    "ingredients": [
+      "500 g basmati rice",
+      "750 g chicken",
+      "2 onions, sliced",
+      "1 cup curd",
+      "2 tbsp biryani masala",
+      "Mint and coriander leaves"
+    ],
+    "steps": [
+      "Soak the rice for 30 minutes",
+      "Marinate chicken with curd and masala",
+      "Fry onions until golden brown",
+      "Cook the chicken with onions",
+      "Layer the rice over the chicken",
+      "Cook on low flame for 20 minutes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Masala Dosa",
+    "category": "Veg",
+    "time": 30,
+    "difficulty": "Easy",
+    "image": "/src/assets/dosa.jpg",
+    "ingredients": [
+      "2 cups dosa batter",
+      "3 potatoes",
+      "1 onion",
+      "Mustard seeds",
+      "Curry leaves"
+    ],
+    "steps": [
+      "Boil and mash the potatoes",
+      "Prepare the potato masala",
+      "Heat a dosa pan",
+      "Spread the batter",
+      "Add masala filling",
+      "Fold and serve hot"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sambar",
+    "category": "Veg",
+    "time": 40,
+    "difficulty": "Easy",
+    "image": "/src/assets/sambar.jpg",
+    "ingredients": [
+      "1 cup toor dal",
+      "2 tomatoes",
+      "1 onion",
+      "Mixed vegetables",
+      "Sambar powder",
+      "Tamarind"
+    ],
+    "steps": [
+      "Cook the dal",
+      "Soak tamarind in water",
+      "Boil vegetables",
+      "Add sambar powder",
+      "Add cooked dal",
+      "Simmer and serve"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fish Curry",
+    "category": "Non-veg",
+    "time": 45,
+    "difficulty": "Medium",
+    "image": "/src/assets/fish.jpg",
+    "ingredients": [
+      "500 g fish",
+      "2 onions",
+      "2 tomatoes",
+      "Chilli powder",
+      "Tamarind extract",
+      "Curry leaves"
+    ],
+    "steps": [
+      "Clean the fish",
+      "Prepare the curry base",
+      "Add spices and tamarind",
+      "Bring the curry to a boil",
+      "Add fish pieces",
+      "Cook until the fish is done"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Paneer Butter Masala",
+    "category": "Veg",
+    "time": 35,
+    "difficulty": "Medium",
+    "image": "/src/assets/paneer.jpg",
+    "ingredients": [
+      "200 g paneer",
+      "2 tomatoes",
+      "1 onion",
+      "Butter",
+      "Fresh cream",
+      "Garam masala"
+    ],
+    "steps": [
+      "Cut paneer into cubes",
+      "Prepare tomato gravy",
+      "Add butter and spices",
+      "Add paneer cubes",
+      "Add fresh cream",
+      "Simmer and serve"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rava Kesari",
+    "category": "Veg",
+    "time": 20,
+    "difficulty": "Easy",
+    "image": "/src/assets/kesari.jpg",
+    "ingredients": [
+      "1 cup rava",
+      "1 cup sugar",
+      "3 cups water",
+      "Ghee",
+      "Cashews",
+      "Cardamom powder"
+    ],
+    "steps": [
+      "Roast the rava in ghee",
+      "Boil water separately",
+      "Add rava slowly",
+      "Stir until cooked",
+      "Add sugar and cardamom",
+      "Garnish with cashews"
+    ]
+  }
+]
