@@ -11,7 +11,7 @@ function RecipeDetails({ recipe }) {
       </div>
 
       <div className="detail-content">
-        <h2>{recipe.name}</h2>
+        <h2 style={{ textAlign: 'left' }}>{recipe.name}</h2>
 
         <div className="detail-columns">
           <div>
@@ -19,7 +19,7 @@ function RecipeDetails({ recipe }) {
 
             <ul>
               {recipe.ingredients.map((item, index) => (
-                <li style={{ textAlign: 'left' }}key={index}>{item}</li>
+                <li style={{ textAlign: 'left' }} key={index}>{item}</li>
               ))}
             </ul>
           </div>
